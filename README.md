@@ -24,7 +24,7 @@ The chatbox that is used is hack.chat which is an open source chatbox, for more 
 
 <a href="https://github.com/bananavey395">HentieMaster (Creator & Owner, Discord ID: **825372792407982112**)</a>
 
-Trubo#1337 (Assisted with setting up Womginx & Site Hosting)
+<a href="https://github.com/AeroKingdom">Trubo#1337 (Assisted with setting up Womginx & Site Hosting)</a>
 
 <a href="https://github.com/binary-person/">Simon Cheng (Womginx Creator)</a>
 
