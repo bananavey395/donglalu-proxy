@@ -1,0 +1,16 @@
+Privacy Policy of Donglalu Proxy
+
+We will steal all of your data & sell them to CCP. If you have problems, then deal with it.
+
+In all seriousness though, no data is currently being stolen (I don't even know how to log data since I'm an idiot at coding).
+This site itself is open source, so if you really don't believe me you can check the code yourself.
+
+This site itself is completely legal, however individiuals might choose to browse illegal content via the proxy.
+If you have any legal requests regarding this information about individiuals that are rulebreakers, Just email me at hentiemaster@protonmail.com
+
+If there are any issues with the proxy itself, do contact https://github.com/binary-person as they are the ones that have created the proxy itself (Womginx), and I merely just use it.
+
+Lastly, Donglalu Proxy is hosted by Heroku, their privacy policy can be found by going to https://www.heroku.com/policy/security
+
+Legal Request Contact:
+Just email me at hentiemaster@protonmail.com, the email will be checked from time to time.

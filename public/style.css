@@ -1,0 +1,114 @@
+/*this file entirely consists code of stolen w3schools and stack overflow shit*/
+/*i also want to make it clear that i forked an old school project for this, 
+which is why there is random code of stuff i did not use on the current build of this site lol*/
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+header {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.logo {
+  margin-right: auto;
+}
+
+body{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color:#f10000;
+  background-color:#141414;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
+nav{
+  padding: 10px;
+  display: block;
+  background-color: #141414;
+  clear: both;
+  height: 45px;
+}
+nav ul{
+  float: left;
+}
+nav ul li{
+  display: inline;
+  position: relative;
+  padding: 10px;
+  list-style-type: none;
+}
+nav ul li a{
+  text-decoration: none;
+}
+nav ul li a{
+  color: #ffffff;
+}
+
+.content {
+  margin: auto;
+  width: 90%;
+  height: 100%;
+}
+
+.button {
+  background-color: black;
+  border: dotted;
+  color: #f10000;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.input-colors {
+	background-color: #141414;
+	color: #ffffff;
+}
+.input-bar-colors {
+	background-color: #141414;
+	color: rgb(0, 0, 0);
+}
+.input-bar {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  width: 200px
+  border: 1px #141414 solid;
+  padding: 5px 5px 5px 5px;
+  border-radius: 10px;
+  border-style: solid;
+}
+.input-button {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  width:70px /*haha funny number now laugh*/
+  border: 1px #141414 solid;
+  padding: 5px 5px 5px 25px;
+  border-radius: 10px;
+  border-style: solid;
+}
+.textbox-id
+{
+  height:50px;
+  width:500px;
+  font-size:15pt;
+}
+.button-id
+{
+  height:65px;
+  width:100px;
+  font-size:15pt;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #141414;
+  color: white;
+  text-align: center;
+}
