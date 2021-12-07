@@ -10,7 +10,7 @@ If you have any legal requests regarding this information about individiuals tha
 
 If there are any issues with the proxy itself, do contact https://github.com/binary-person as they are the ones that have created the proxy itself (Womginx), and I merely just use it.
 
-Lastly, Donglalu Proxy is hosted by Heroku, their privacy policy can be found by going to https://www.heroku.com/policy/security
+The only cookie used is a simple boolean that determines if you're a robot or not.
 
 Legal Request Contact:
 Just email me at hentiemaster@protonmail.com, the email will be checked from time to time.
