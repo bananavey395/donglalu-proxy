@@ -1,4 +1,4 @@
-# **Donglalu-Proxy**
+# **donglalu-proxy**
 
 **"Donglalu Proxy is the best proxy site known to mankind." - Allah** 
 
