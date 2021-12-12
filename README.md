@@ -10,7 +10,7 @@ This work is licensed under the Attribution-NonCommercial Sharealike 4.0 Interna
 
 # **Contact Information**
 
-Feel free to contact me on discord, with my ID **825372792407982112** (I tend to change my username and tag).
+Feel free to contact me on discord, with my ID **825372792407982112** (I tend to change my username and tag). If discord does not work for you, send an email to hentiemaster@protonmail.com and I will check it within a few days.
 
 # **Womginx**
 
