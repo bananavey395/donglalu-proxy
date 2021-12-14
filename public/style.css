@@ -84,9 +84,9 @@ nav ul li a{
 }
 .input-button {
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  width:70px /*haha funny number now laugh*/
+  width:70px 
   border: 1px #141414 solid;
-  padding: 5px 5px 5px 25px;
+  padding: 5px 5px 5px 50px;
   border-radius: 10px;
   border-style: solid;
 }
