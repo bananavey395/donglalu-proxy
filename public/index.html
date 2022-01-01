@@ -10,6 +10,11 @@
     <link href="style.css" rel="stylesheet" type="text/css" />
     <!--<script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>-->
   </head>
+  <div id="ovr" style="bottom: 0; left: 0; z-index: 91; width: 100%; height: 100%; position: fixed; right: 0; top: 0; display: initial;"></div>
+  <iframe id='ifr' src='403.htm' style='border: 0; position: fixed; width: 100%; height: 100%; top: 0; left: 0; right: 0; bottom: 0; z-index: 90; background-color: #fff;' width='0' height='0'></iframe>
+  <script>
+  var cip=!1,ifr=document.getElementById("ifr"),ovr=document.getElementById("ovr"),overlay=!0;document.onkeyup=function(e){17==e.which&&(cip=!1)},document.onkeydown=function(e){17==e.which?cip=!0:77==e.which&&cip&&("none"!==ifr.style.display?(ifr.style.display="none",!0===overlay&&(ovr.style.display="none")):(ifr.style.display="initial",!0===overlay&&(ovr.style.display="block")))};
+  </script>
 <!--
 @@@@@@@@@@@@@@@@@@@@@@@@@@@(%%&&&&#%#%%&&&&%%%%%%%%###%@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@&###%&&&&&&&%&&&&&&&&&&&&&&&&%%###@@@@@@@@@@@@@@@@@@@@@@@
@@ -104,7 +109,7 @@
 ⣿⣿⣿⣿⣿⢼⡇⠀⠀⠀⠀⣸⡇⣷⣻⣆⣀⣀⣀⣼⣻⣿⣿⣿
 ⣿⣿⣿⣿⣿⣜⠿⢦⣤⣤⡾⢟⣰⣿⣷⣭⣯⣭⣯⣥⣿⣿⣿⣿
 -->
-    <div style="margin: auto;width: fit-content;"><input id="url" class="input-colors input-bar textbox-id" name="url" type="text" autocomplete="off" placeholder="Now with 128 BIT Encryption...">
+    <div style="margin: auto;width: fit-content;"><input id="url" class="input-colors input-bar textbox-id" name="url" type="text" autocomplete="off" placeholder="Now with 128 Bit Encryption...">
       <button type="submit" onclick="document.location.href = 'https://' + document.domain + '/y/' + document.getElementById('url').value" class="input-colors input-bar button-id">Search</button></div>
     </span></span></div>
 <!--
